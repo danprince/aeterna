@@ -3,10 +3,12 @@ Eterna
 
 [![Build Status](https://travis-ci.org/danprince/aeterna.svg?branch=master)](https://travis-ci.org/danprince/aeterna)
 
-Elegant persistent data structures.
+Elegant persistent data structures with a Clojure-esque API and Javascript semantics.
 
  - [ ] Should be awesome to debug
+ - [ ] First class error messages
  - [ ] Idiomatic JS interface
+ - [ ] Autobind context (if possible)
 
 ## Object
  - [x] assoc
@@ -14,6 +16,8 @@ Elegant persistent data structures.
  - [ ] assocIn
  - [ ] updateIn
  - [x] size
+ - [ ] get
+ - [ ] getIn
  - [x] hasKey
  - [x] empty
  - [x] merge
@@ -21,6 +25,7 @@ Elegant persistent data structures.
  - [ ] vals
  - [ ] reduce
  - [ ] filter
+ - [ ] equals
 
 ## List
  - [ ] conj
@@ -50,6 +55,13 @@ Elegant persistent data structures.
  - [ ] repeatedly
  - [ ] partition/By
  - [ ] groupBy
+ - [ ] reverse
+ - [ ] peek
+ - [ ] pop
+ - [ ] zipmap
+ - [ ] nth
+ - [ ] distinct
+ - [ ] equals
 
 ## Sets
  - [ ] disj
@@ -65,6 +77,14 @@ Elegant persistent data structures.
  - [ ] range
  - [ ] inc/dec
  - [ ] sum/sub/mul/div
+ - [ ] gt/lt
  - [ ] isEvent/isOdd
  - [ ] comp
+ - [ ] partial
+ - [ ] curry
+ - [ ] juxt
+ - [ ] knit
+ - [ ] pipe
+ - [ ] fnil
+ - [ ] select
 
