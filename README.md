@@ -5,58 +5,66 @@ Eterna
 
 Elegant persistent data structures.
 
-* Should be awesome to debug
-* Idiomatic JS interface
+[ ] Should be awesome to debug
+[ ] Idiomatic JS interface
 
-Object
-* assoc
-* dissoc
-* assocIn
-* updateIn
-* size
-* hasKey
-* empty
-* merge
-* keys
-* vals
-* reduce
-* filter
+## Object
+[x] assoc
+[x] dissoc
+[ ] assocIn
+[ ] updateIn
+[x] size
+[x] hasKey
+[x] empty
+[x] merge
+[ ] keys
+[ ] vals
+[ ] reduce
+[ ] filter
 
-List
-* conj
-* into
-* assoc/dissoc/update
-* subvec
-* first
-* rest
-* cons
-* concat
-* flatten
-* each
-* map
-* mapCat
-* filter
-* remove
-* reduce
-* take/While
-* drop/While
-* some
-* every
-* sort
-* interpose
-* interleave
-* iterate
-* repeat
-* repeatedly
-* partition/By
-* groupBy
+## List
+[ ] conj
+[ ] into
+[ ] assoc/dissoc/update
+[ ] subvec
+[ ] first
+[ ] rest
+[ ] cons
+[ ] concat
+[ ] flatten
+[ ] each
+[ ] map
+[ ] mapCat
+[ ] filter
+[ ] remove
+[ ] reduce
+[ ] take/While
+[ ] drop/While
+[ ] some
+[ ] every
+[ ] sort
+[ ] interpose
+[ ] interleave
+[ ] iterate
+[ ] repeat
+[ ] repeatedly
+[ ] partition/By
+[ ] groupBy
 
-Functions
-* identity
-* constantly
-* range
-* inc/dec
-* sum/sub/mul/div
-* isEvent/isOdd
-* comp
+## Sets
+[ ] disj
+[ ] union
+[ ] intersection
+[ ] difference
+[ ] isSubset
+[ ] isSuperSet
+
+## Functions
+[ ] identity
+[ ] constantly
+[ ] range
+[ ] inc/dec
+[ ] sum/sub/mul/div
+[ ] isEvent/isOdd
+[ ] comp
 
