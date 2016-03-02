@@ -6,12 +6,16 @@
   "scripts": {
     "test": "tape test/index.js | tap-spec"
   },
-  "keywords": ["persistent", "immutable", "data"],
+  "keywords": [
+    "persistent",
+    "immutable",
+    "data"
+  ],
   "author": "",
   "license": "MIT",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
+    "eslint": "^2.2.0",
     "tap-spec": "^4.1.1",
     "tape": "^4.4.0"
   }
