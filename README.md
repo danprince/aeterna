@@ -1,6 +1,8 @@
 Eterna
 ======
 
+[![Build Status](https://travis-ci.org/danprince/aeterna.svg?branch=master)](https://travis-ci.org/danprince/aeterna)
+
 Elegant persistent data structures.
 
 * Should be awesome to debug
