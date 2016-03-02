@@ -1,0 +1,18 @@
+{
+  "name": "aeterna",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/index.js | tap-spec"
+  },
+  "keywords": ["persistent", "immutable", "data"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "tap-spec": "^4.1.1",
+    "tape": "^4.4.0"
+  }
+}
