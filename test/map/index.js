@@ -1,1 +1,2 @@
-var assoc = require('./assoc.spec');
+require('./assoc.spec');
+require('./dissoc.spec');
