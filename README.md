@@ -13,19 +13,19 @@ Elegant persistent data structures with a Clojure-esque API and Javascript seman
 ## Object
  - [x] assoc
  - [x] dissoc
- - [ ] assocIn
- - [ ] updateIn
  - [x] size
  - [x] get
  - [x] getIn
  - [x] hasKey
  - [x] empty
  - [x] merge
+ - [x] equals
+ - [ ] assocIn
+ - [ ] updateIn
  - [ ] keys
  - [ ] vals
  - [ ] reduce
  - [ ] filter
- - [x] equals
 
 ## List
  - [ ] conj
@@ -74,17 +74,13 @@ Elegant persistent data structures with a Clojure-esque API and Javascript seman
 ## Functions
  - [x] identity
  - [x] constantly
- - [ ] range
  - [x] inc/dec
- - [ ] sum/sub/mul/div
- - [ ] gt/lt
  - [x] isEvent/isOdd
  - [x] comp
  - [x] partial
  - [x] curry
+ - [ ] range
  - [ ] juxt
  - [ ] knit
  - [ ] pipe
- - [ ] fnil
- - [ ] select
 
