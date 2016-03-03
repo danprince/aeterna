@@ -17,7 +17,7 @@ Elegant persistent data structures with a Clojure-esque API and Javascript seman
  - [ ] updateIn
  - [x] size
  - [x] get
- - [ ] getIn
+ - [x] getIn
  - [x] hasKey
  - [x] empty
  - [x] merge
