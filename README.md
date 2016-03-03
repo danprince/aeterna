@@ -75,10 +75,10 @@ Elegant persistent data structures with a Clojure-esque API and Javascript seman
  - [x] identity
  - [x] constantly
  - [ ] range
- - [ ] inc/dec
+ - [x] inc/dec
  - [ ] sum/sub/mul/div
  - [ ] gt/lt
- - [ ] isEvent/isOdd
+ - [x] isEvent/isOdd
  - [ ] comp
  - [ ] partial
  - [ ] curry
