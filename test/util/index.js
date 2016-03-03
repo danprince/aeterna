@@ -5,3 +5,4 @@ require('./dec.spec');
 require('./is-even.spec');
 require('./is-odd.spec');
 require('./comp.spec');
+require('./partial.spec');

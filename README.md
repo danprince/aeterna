@@ -80,7 +80,7 @@ Elegant persistent data structures with a Clojure-esque API and Javascript seman
  - [ ] gt/lt
  - [x] isEvent/isOdd
  - [x] comp
- - [ ] partial
+ - [x] partial
  - [ ] curry
  - [ ] juxt
  - [ ] knit
