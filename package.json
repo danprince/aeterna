@@ -13,7 +13,9 @@
   ],
   "author": "",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "deep-equal": "^1.0.1"
+  },
   "devDependencies": {
     "eslint": "^2.2.0",
     "tap-spec": "^4.1.1",
