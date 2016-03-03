@@ -25,7 +25,7 @@ Elegant persistent data structures with a Clojure-esque API and Javascript seman
  - [ ] vals
  - [ ] reduce
  - [ ] filter
- - [*] equals
+ - [x] equals
 
 ## List
  - [ ] conj
