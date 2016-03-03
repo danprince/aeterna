@@ -72,8 +72,8 @@ Elegant persistent data structures with a Clojure-esque API and Javascript seman
  - [ ] isSuperSet
  
 ## Functions
- - [ ] identity
- - [ ] constantly
+ - [x] identity
+ - [x] constantly
  - [ ] range
  - [ ] inc/dec
  - [ ] sum/sub/mul/div
