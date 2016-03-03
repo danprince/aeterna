@@ -8,7 +8,12 @@ Elegant persistent data structures with a Clojure-esque API and Javascript seman
  - [ ] Should be awesome to debug
  - [ ] First class error messages
  - [ ] Idiomatic JS interface
- - [ ] Autobind context (if possible)
+
+---
+
+Nice to haves
+- [ ] Async update batching interface
+- [ ] All methods autobound
 
 ## Object
  - [x] assoc
@@ -29,17 +34,15 @@ Elegant persistent data structures with a Clojure-esque API and Javascript seman
 
 ## List
  - [ ] conj
- - [ ] into
  - [ ] assoc/dissoc/update
  - [ ] subvec
  - [ ] first
  - [ ] rest
- - [ ] cons
  - [ ] concat
  - [ ] flatten
  - [ ] each
  - [ ] map
- - [ ] mapCat
+ - [ ] mapcat
  - [ ] filter
  - [ ] remove
  - [ ] reduce
@@ -75,7 +78,7 @@ Elegant persistent data structures with a Clojure-esque API and Javascript seman
  - [x] identity
  - [x] constantly
  - [x] inc/dec
- - [x] isEvent/isOdd
+ - [x] isEven/isOdd
  - [x] comp
  - [x] partial
  - [x] curry
