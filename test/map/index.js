@@ -5,3 +5,4 @@ require('./has-key.spec');
 require('./empty.spec');
 require('./merge.spec');
 require('./get.spec');
+require('./get-in.spec');
