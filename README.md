@@ -81,7 +81,7 @@ Elegant persistent data structures with a Clojure-esque API and Javascript seman
  - [x] isEvent/isOdd
  - [x] comp
  - [x] partial
- - [ ] curry
+ - [x] curry
  - [ ] juxt
  - [ ] knit
  - [ ] pipe
