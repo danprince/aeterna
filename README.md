@@ -33,9 +33,9 @@ Nice to haves
  - [ ] filter
 
 ## List
- - [ ] conj
+ - [x] conj
  - [ ] assoc/dissoc/update
- - [ ] subvec
+ - [x] subvec
  - [ ] first
  - [ ] rest
  - [ ] concat
