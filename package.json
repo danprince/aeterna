@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "tape test/index.js | tap-spec"
+    "test": "tape test/index.js | tap-spec",
+    "test:map": "tape test/map/index.js | tap-spec",
+    "test:vector": "tape test/vector/index.js | tap-spec",
+    "test:util": "tape test/util/index.js | tap-spec"
   },
   "keywords": [
     "persistent",
