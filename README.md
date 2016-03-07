@@ -14,6 +14,7 @@ Elegant persistent data structures with a Clojure-esque API and Javascript seman
 Nice to haves
 - [ ] Async update batching interface
 - [ ] All methods autobound
+- [ ] Prevent circular object overflows
 
 ## Object
  - [x] assoc
@@ -39,9 +40,9 @@ Need to make some decisions about shadowing natives.
  - [x] subvec
  - [x] first
  - [x] rest
- - [ ] nth
+ - [x] nth
+ - [x] each
  - [ ] flatten
- - [ ] each
  - [ ] mapcat
  - [ ] remove
  - [ ] take/While
@@ -57,15 +58,15 @@ Need to make some decisions about shadowing natives.
  - [ ] zipmap
  - [ ] distinct
  - [ ] equals
- - [ ] reverse
  - [ ] pop
  - [ ] filter
- - [ ] some
- - [ ] every
- - [ ] sort
- - [ ] concat
- - [ ] map
- - [ ] reduce
+ - [ ] some : any
+ - [ ] every : all
+ - [ ] reverse : reverse
+ - [ ] sort : sorted
+ - [ ] concat : join
+ - [ ] map : mapMany
+ - [ ] reduce : fold
 
 ## Sets
  - [ ] disj
