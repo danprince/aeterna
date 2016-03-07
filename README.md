@@ -32,25 +32,20 @@ Nice to haves
  - [ ] reduce
  - [ ] filter
 
-## List
+## Vector
+Need to make some decisions about shadowing natives.
+
  - [x] conj
- - [ ] assoc/dissoc/update
  - [x] subvec
- - [ ] first
- - [ ] rest
- - [ ] concat
+ - [x] first
+ - [x] rest
+ - [ ] nth
  - [ ] flatten
  - [ ] each
- - [ ] map
  - [ ] mapcat
- - [ ] filter
  - [ ] remove
- - [ ] reduce
  - [ ] take/While
  - [ ] drop/While
- - [ ] some
- - [ ] every
- - [ ] sort
  - [ ] interpose
  - [ ] interleave
  - [ ] iterate
@@ -58,13 +53,19 @@ Nice to haves
  - [ ] repeatedly
  - [ ] partition/By
  - [ ] groupBy
- - [ ] reverse
  - [ ] peek
- - [ ] pop
  - [ ] zipmap
- - [ ] nth
  - [ ] distinct
  - [ ] equals
+ - [ ] reverse
+ - [ ] pop
+ - [ ] filter
+ - [ ] some
+ - [ ] every
+ - [ ] sort
+ - [ ] concat
+ - [ ] map
+ - [ ] reduce
 
 ## Sets
  - [ ] disj
