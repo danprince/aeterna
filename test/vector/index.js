@@ -5,3 +5,4 @@ require('./rest.spec');
 require('./nth.spec');
 require('./each.spec');
 require('./flatten.spec');
+require('./mapcat.spec');
