@@ -44,7 +44,6 @@ Need to make some decisions about shadowing natives.
  - [x] each
  - [x] flatten
  - [ ] mapcat
- - [ ] remove
  - [ ] take/While
  - [ ] drop/While
  - [ ] interpose
@@ -60,6 +59,7 @@ Need to make some decisions about shadowing natives.
  - [ ] equals
  - [ ] pop
  - [ ] filter
+ - [ ] remove
  - [ ] some : any
  - [ ] every : all
  - [ ] reverse : reverse
@@ -88,4 +88,5 @@ Need to make some decisions about shadowing natives.
  - [ ] juxt
  - [ ] knit
  - [ ] pipe
+ - [ ] complement
 

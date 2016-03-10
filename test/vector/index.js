@@ -6,3 +6,7 @@ require('./nth.spec');
 require('./each.spec');
 require('./flatten.spec');
 require('./mapcat.spec');
+require('./take.spec');
+require('./take-while.spec');
+require('./drop.spec');
+require('./drop-while.spec');
