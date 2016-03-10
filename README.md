@@ -42,7 +42,7 @@ Need to make some decisions about shadowing natives.
  - [x] rest
  - [x] nth
  - [x] each
- - [ ] flatten
+ - [x] flatten
  - [ ] mapcat
  - [ ] remove
  - [ ] take/While
