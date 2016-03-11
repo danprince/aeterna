@@ -10,3 +10,5 @@ require('./take.spec');
 require('./take-while.spec');
 require('./drop.spec');
 require('./drop-while.spec');
+require('./interpose.spec');
+require('./interleave.spec');

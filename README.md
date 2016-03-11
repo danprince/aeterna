@@ -43,12 +43,11 @@ Need to make some decisions about shadowing natives.
  - [x] nth
  - [x] each
  - [x] flatten
- - [ ] mapcat
- - [ ] take/While
- - [ ] drop/While
- - [ ] interpose
- - [ ] interleave
- - [ ] iterate
+ - [x] mapcat
+ - [x] take/While
+ - [x] drop/While
+ - [x] interpose
+ - [x] interleave
  - [ ] repeat
  - [ ] repeatedly
  - [ ] partition/By
@@ -67,6 +66,9 @@ Need to make some decisions about shadowing natives.
  - [ ] concat : join
  - [ ] map : mapMany
  - [ ] reduce : fold
+
+ Laziness
+ - [ ] iterate
 
 ## Sets
  - [ ] disj
