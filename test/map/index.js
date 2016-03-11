@@ -7,3 +7,5 @@ require('./merge.spec');
 require('./get.spec');
 require('./get-in.spec');
 require('./equals.spec');
+require('./keys.spec');
+require('./vals.spec');

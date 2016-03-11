@@ -28,8 +28,8 @@ Nice to haves
  - [x] equals
  - [ ] assocIn
  - [ ] updateIn
- - [ ] keys
- - [ ] vals
+ - [x] keys
+ - [x] vals
  - [ ] reduce
  - [ ] filter
 
