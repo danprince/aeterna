@@ -64,17 +64,6 @@ Need to make some decisions about shadowing natives.
  - [ ] partition/By
  - [ ] groupBy
 
- Laziness
- - [ ] iterate
-
-## Sets
- - [ ] disj
- - [ ] union
- - [ ] intersection
- - [ ] difference
- - [ ] isSubset
- - [ ] isSuperSet
- 
 ## Functions
  - [x] identity
  - [x] constantly
