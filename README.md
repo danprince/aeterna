@@ -50,8 +50,6 @@ Need to make some decisions about shadowing natives.
  - [x] interleave
  - [x] any
  - [x] all
- - [ ] partition/By
- - [ ] groupBy
  - [ ] peek
  - [ ] zipmap
  - [ ] distinct
@@ -59,11 +57,13 @@ Need to make some decisions about shadowing natives.
  - [ ] pop
  - [ ] filter
  - [ ] remove
- - [ ] reverse : reverse
- - [ ] sort : sorted
- - [ ] concat : join
- - [ ] map : mapMany
+ - [ ] reverse
+ - [ ] sort
+ - [ ] concat
+ - [ ] map
  - [ ] reduce : fold
+ - [ ] partition/By
+ - [ ] groupBy
 
  Laziness
  - [ ] iterate

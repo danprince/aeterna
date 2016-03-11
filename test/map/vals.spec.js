@@ -7,7 +7,7 @@ test('vals', (t) => {
   t.deepEqual(
     _.Vector([1, 2, 3]),
     _.Map({ a: 1, b: 2, c: 3 }).vals(),
-    'should return the map\'s keys'
+    'should return the map\'s values'
   );
 
   const m = _.Map({ a: 1 });
