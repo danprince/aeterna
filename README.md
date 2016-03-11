@@ -51,14 +51,14 @@ Need to make some decisions about shadowing natives.
  - [x] any
  - [x] all
  - [ ] peek
- - [ ] zipmap
+ - [x] zipmap
  - [ ] distinct
  - [ ] equals
  - [ ] pop
  - [ ] filter
  - [ ] remove
  - [x] reverse
- - [ ] sort
+ - [x] sort
  - [ ] concat
  - [x] map
  - [ ] partition/By

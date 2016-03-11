@@ -17,3 +17,4 @@ require('./all.spec');
 require('./map.spec');
 require('./reverse.spec');
 require('./sort.spec');
+require('./zipmap.spec');
