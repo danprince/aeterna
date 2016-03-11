@@ -8,4 +8,6 @@ require('./comp.spec');
 require('./partial.spec');
 require('./curry.spec');
 require('./juxt.spec');
+require('./knit.spec');
 require('./complement.spec');
+require('./range.spec');
