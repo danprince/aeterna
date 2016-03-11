@@ -26,10 +26,10 @@ Nice to haves
  - [x] empty
  - [x] merge
  - [x] equals
- - [ ] assocIn
- - [ ] updateIn
  - [x] keys
  - [x] vals
+ - [ ] assocIn
+ - [ ] updateIn
  - [ ] reduce
  - [ ] filter
 
@@ -57,11 +57,10 @@ Need to make some decisions about shadowing natives.
  - [ ] pop
  - [ ] filter
  - [ ] remove
- - [ ] reverse
+ - [x] reverse
  - [ ] sort
  - [ ] concat
- - [ ] map
- - [ ] reduce : fold
+ - [x] map
  - [ ] partition/By
  - [ ] groupBy
 

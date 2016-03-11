@@ -14,3 +14,6 @@ require('./interpose.spec');
 require('./interleave.spec');
 require('./any.spec');
 require('./all.spec');
+require('./map.spec');
+require('./reverse.spec');
+require('./sort.spec');

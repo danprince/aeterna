@@ -23,9 +23,9 @@ test('range', (t) => {
   );
 
   t.deepEquals(
-    _.Vector([0, 0.5, 1]),
+    _.Vector([0, 0.5, 1, 1.5]),
     _.range(0, 2, 0.5),
-    'should create a range with two arguments (start, end, step)'
+    'should create a range with three arguments (start, end, step)'
   );
 });
 
