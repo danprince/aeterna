@@ -85,8 +85,8 @@ Need to make some decisions about shadowing natives.
  - [x] partial
  - [x] curry
  - [ ] range
- - [ ] juxt
- - [ ] knit
+ - [x] juxt
+ - [] knit
  - [ ] pipe
- - [ ] complement
+ - [x] complement
 

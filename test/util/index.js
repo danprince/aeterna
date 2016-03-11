@@ -7,3 +7,5 @@ require('./is-odd.spec');
 require('./comp.spec');
 require('./partial.spec');
 require('./curry.spec');
+require('./juxt.spec');
+require('./complement.spec');
