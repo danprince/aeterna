@@ -12,3 +12,5 @@ require('./drop.spec');
 require('./drop-while.spec');
 require('./interpose.spec');
 require('./interleave.spec');
+require('./any.spec');
+require('./all.spec');

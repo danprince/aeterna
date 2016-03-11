@@ -48,8 +48,8 @@ Need to make some decisions about shadowing natives.
  - [x] drop/While
  - [x] interpose
  - [x] interleave
- - [ ] repeat
- - [ ] repeatedly
+ - [x] any
+ - [x] all
  - [ ] partition/By
  - [ ] groupBy
  - [ ] peek
@@ -59,8 +59,6 @@ Need to make some decisions about shadowing natives.
  - [ ] pop
  - [ ] filter
  - [ ] remove
- - [ ] some : any
- - [ ] every : all
  - [ ] reverse : reverse
  - [ ] sort : sorted
  - [ ] concat : join
