@@ -50,17 +50,17 @@ Need to make some decisions about shadowing natives.
  - [x] interleave
  - [x] any
  - [x] all
- - [ ] peek
  - [x] zipmap
- - [ ] distinct
- - [ ] equals
- - [ ] pop
  - [x] filter
  - [x] remove
  - [x] reverse
  - [x] sort
- - [ ] concat
+ - [x] concat
  - [x] map
+ - [ ] peek
+ - [ ] distinct
+ - [ ] equals
+ - [ ] pop
  - [ ] partition/By
  - [ ] groupBy
 
