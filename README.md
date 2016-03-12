@@ -26,8 +26,8 @@ __Nice to haves__
  - [x] equals
  - [x] keys
  - [x] vals
- - [ ] assocIn
- - [ ] updateIn
+ - [x] assocIn
+ - [x] updateIn
 
 ## Vector
  - [x] conj
@@ -55,6 +55,7 @@ __Nice to haves__
  - [x] pop
  - [x] distinct
  - [x] equals
+ - [ ] isEmpty
  - [ ] partition/By
  - [ ] groupBy
 
@@ -73,5 +74,4 @@ __Nice to haves__
  - [x] complement
  - [x] isOdd
  - [x] isEven
- - [ ] pipe
 

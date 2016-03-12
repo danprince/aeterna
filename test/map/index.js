@@ -9,3 +9,5 @@ require('./get-in.spec');
 require('./equals.spec');
 require('./keys.spec');
 require('./vals.spec');
+require('./assoc-in.spec');
+require('./update-in.spec');
