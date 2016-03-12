@@ -23,3 +23,5 @@ require('./filter.spec');
 require('./remove.spec');
 require('./peek.spec');
 require('./pop.spec');
+require('./distinct.spec');
+require('./equals.spec');

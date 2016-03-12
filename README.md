@@ -59,8 +59,8 @@ Need to make some decisions about shadowing natives.
  - [x] map
  - [x] peek
  - [x] pop
- - [ ] distinct
- - [ ] equals
+ - [x] distinct
+ - [x] equals
  - [ ] partition/By
  - [ ] groupBy
 
