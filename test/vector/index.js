@@ -21,3 +21,5 @@ require('./zipmap.spec');
 require('./concat.spec');
 require('./filter.spec');
 require('./remove.spec');
+require('./peek.spec');
+require('./pop.spec');

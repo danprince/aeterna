@@ -57,10 +57,10 @@ Need to make some decisions about shadowing natives.
  - [x] sort
  - [x] concat
  - [x] map
- - [ ] peek
+ - [x] peek
+ - [x] pop
  - [ ] distinct
  - [ ] equals
- - [ ] pop
  - [ ] partition/By
  - [ ] groupBy
 
