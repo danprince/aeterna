@@ -55,8 +55,8 @@ Need to make some decisions about shadowing natives.
  - [ ] distinct
  - [ ] equals
  - [ ] pop
- - [ ] filter
- - [ ] remove
+ - [x] filter
+ - [x] remove
  - [x] reverse
  - [x] sort
  - [ ] concat

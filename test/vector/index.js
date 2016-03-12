@@ -19,3 +19,5 @@ require('./reverse.spec');
 require('./sort.spec');
 require('./zipmap.spec');
 require('./concat.spec');
+require('./filter.spec');
+require('./remove.spec');
