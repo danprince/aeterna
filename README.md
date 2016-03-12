@@ -28,8 +28,6 @@ __Nice to haves__
  - [x] vals
  - [ ] assocIn
  - [ ] updateIn
- - [ ] reduce
- - [ ] filter
 
 ## Vector
  - [x] conj
@@ -63,6 +61,8 @@ __Nice to haves__
 ## Functions
  - [x] identity
  - [x] constantly
+ - [x] repeat
+ - [x] repeatedly
  - [x] inc/dec
  - [x] comp
  - [x] partial
@@ -71,5 +71,7 @@ __Nice to haves__
  - [x] juxt
  - [x] knit
  - [x] complement
+ - [x] isOdd
+ - [x] isEven
  - [ ] pipe
 

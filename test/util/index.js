@@ -11,3 +11,5 @@ require('./juxt.spec');
 require('./knit.spec');
 require('./complement.spec');
 require('./range.spec');
+require('./repeat.spec');
+require('./repeatedly.spec');
