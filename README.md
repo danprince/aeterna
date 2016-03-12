@@ -3,20 +3,18 @@ Eterna
 
 [![Build Status](https://travis-ci.org/danprince/aeterna.svg?branch=master)](https://travis-ci.org/danprince/aeterna)
 
-Elegant persistent data structures with a Clojure-esque API and Javascript semantics.
+Practical persistent data structures with a Clojure-esque flavour.
 
  - [ ] Should be awesome to debug
  - [ ] First class error messages
  - [ ] Idiomatic JS interface
 
----
-
-Nice to haves
+__Nice to haves__
 - [ ] Async update batching interface
 - [ ] All methods autobound
 - [ ] Prevent circular object overflows
 
-## Object
+## Map
  - [x] assoc
  - [x] dissoc
  - [x] size
@@ -34,8 +32,6 @@ Nice to haves
  - [ ] filter
 
 ## Vector
-Need to make some decisions about shadowing natives.
-
  - [x] conj
  - [x] subvec
  - [x] first
