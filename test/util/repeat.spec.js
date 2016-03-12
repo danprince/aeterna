@@ -17,7 +17,7 @@ test('repeat', (t) => {
   );
 
   t.deepEquals(
-    _.Vector([3, 3, 3]),
+    _.Vector([0, 0, 0]),
     _.repeat(3, 0),
     'should return a vector of 3 zeros'
   );
