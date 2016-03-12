@@ -56,8 +56,9 @@ __Nice to haves__
  - [x] distinct
  - [x] equals
  - [x] isEmpty
- - [ ] partition/By
- - [ ] groupBy
+ - [x] partitionBy
+ - [ ] partition
+ - [x] groupBy
 
 ## Functions
  - [x] identity
