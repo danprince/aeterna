@@ -27,4 +27,5 @@ require('./distinct.spec');
 require('./equals.spec');
 require('./is-empty.spec');
 require('./partition-by.spec');
+require('./partition.spec');
 require('./group-by.spec');
