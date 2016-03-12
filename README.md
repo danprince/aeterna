@@ -55,7 +55,7 @@ __Nice to haves__
  - [x] pop
  - [x] distinct
  - [x] equals
- - [ ] isEmpty
+ - [x] isEmpty
  - [ ] partition/By
  - [ ] groupBy
 

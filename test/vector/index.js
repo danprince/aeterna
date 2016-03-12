@@ -25,3 +25,4 @@ require('./peek.spec');
 require('./pop.spec');
 require('./distinct.spec');
 require('./equals.spec');
+require('./is-empty.spec');
