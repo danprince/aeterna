@@ -68,7 +68,6 @@ Need to make some decisions about shadowing natives.
  - [x] identity
  - [x] constantly
  - [x] inc/dec
- - [x] isEven/isOdd
  - [x] comp
  - [x] partial
  - [x] curry
