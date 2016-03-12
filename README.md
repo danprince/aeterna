@@ -57,7 +57,7 @@ __Nice to haves__
  - [x] equals
  - [x] isEmpty
  - [x] partitionBy
- - [ ] partition
+ - [x] partition
  - [x] groupBy
 
 ## Functions
